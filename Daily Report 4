@@ -1,0 +1,7 @@
+It's my 4th day with the C# course and I'm back after the weekend. So in my previous section i learned about using the Console.WriteLine but in today's 
+session i learned what exactly is Console and how do we use it. So to be able to use the console class in our program we need to add the using 
+directives in the program. So here i got to know why exactly we write using System on the top of the program, System is actually one of the 
+few namespaces provided by the .NET Framework to us in order to use instead of the fully-qualified names.
+So with this information i practised and solved some error ridden programs and made the programs with and without the use of using Directives.
+At the end i also learned about how to write a comment and the use of comment of how it's used to notify other programers about the program and
+how it's made.
