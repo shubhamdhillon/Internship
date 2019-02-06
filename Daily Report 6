@@ -1,0 +1,8 @@
+So with completion of the 'Hello World' section I've reached the 'Using the Console' part, in it's overview i learned that I'll be studying how to 
+use console, make changes to it and how to read the input provided by the user.
+So to start with firstly i learned what exactly is the console, Console has been one of a feature of OS since starting, they are used to 
+read the information or input provided by the user and then display the feedback on an output display. While working on the exercise i came
+to know about the feature Intellisense which displays suggestion on Visual studio wherever required. I also practiced writing multiple 
+statements in a single program. I learned the basic difference between Console.WriteLine and Console.Write is that with .Write we need to 
+manually add a move to new line option which is not a case in .WriteLine , with this i did the few interactive examples too provided on this 
+case study.
