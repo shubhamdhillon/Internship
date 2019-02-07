@@ -1,0 +1,9 @@
+So today is my 7th day of the Internship and I've completed the Using the Console section of the tutorial. As i mentioned in the previous
+report I learned about the difference created by the Console.WriteLine and Console.Write. Today i practically witnessed the change by writing two 
+different statements using Console.Write where an empty statement was required for creating the space between the words.After this i learned
+that we can read the input from  the user and how to do this with a proper syntax and read about some most common operations like Read, 
+ReadLine, ReadKey. In the next Working Exercise area i  did inserted an input to be shown on an output display which was being taught in the
+previous part and along with this i read about the Read method to which i think i'll do some more practice on .NET Fiddle.
+Hence Using the Console ends with yet again the SurveyBuilder section as there are a few things in this section which we are gonna use in the
+making of our user interactive application.
+I've completed the section but I think I'm gonna need a practice session for the Read method part and so I'll be studying that on .NET Fiddle.
