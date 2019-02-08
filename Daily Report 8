@@ -1,0 +1,7 @@
+It's the 7th day since i've started the beginners tutorial and i've reached the Variable and standard types section. Understanding what a variable and the purpose of a type is a fundamental concept of all
+programing languages, so i'm going to learn what are variables and the different types of standard.
+So Variables are a core concept in all programming languages, also known as scalars in some languages. A variable by definition is an 
+identifier pointing to a storage location in memory, which contains its value.I also studied about how to declare a string and integers. 
+About Type what i learned is that all the codes that we write are of a specific type for a specific reason.
+The most important thing i studied today was the difference between the Value and Reference type and the main difference is about the storage
+of value in the data type itself or making a pointer to store the value.
