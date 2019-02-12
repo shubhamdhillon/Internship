@@ -1,0 +1,7 @@
+So here I am on the 10th day doing the Variable and Standard section. Yesterday while revising all the previous syllabus i also gave a bit 
+of time to Primitive types, the C# language includes a set of primitive types.They have some additional properties that make them unique from 
+other types. It can also be used as the value for a constant, and can be represented as a literal value in the code.I did work on a few
+examples in the Exercise section.
+The next topic i studied is what are constants, when we declare constant values, they can no longer be changed. Once a constant value is set,
+it cannot be changed. Then comes the variable, the var keyword is a special keyword in C# . It was introduced as part of the C# 3.0 language
+release it serves several purposes. It's primary purpose is a language feature called type interference. 
