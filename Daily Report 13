@@ -1,0 +1,7 @@
+Yesterday after learning about the Classes, why and how they are used, building of a constructor and even after adding the GetAge method by
+determining the date of birth of the person I completed the Class section.In today's tutorial I learned about the Inheritance. The word 
+Inheritance itselves tells it's definition but in the world of C# Inheritance is the mechanism by which one class can inherit from another class, allowing it to
+re-use members, common code and behaviour provided by the a base class. The concept of inheritance multiple classes are made which exactly are
+parent and child classes, the child classes inherits all the properties of the parent class.
+Hence I was also able to practice a lot of examples both online and offline through my books on how to implement inheritance but this tutorial
+is really easing things for me.
