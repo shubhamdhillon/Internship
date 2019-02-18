@@ -1,0 +1,7 @@
+So here I'm on the Inheritance Exercise and today i studied about the inheritance methods and properties. Inheritance allows us to share
+methods, properties, fields and constructors through our inheritance also being a public method on a base class, this makes it available to all
+derived classes. Constructors can also be implemented in base classes. I also got to know about a special modifier abstract which allows us to
+enforce certain semantics on the structure and use of our base classes. I also learned that  when the abstract modifier is applied to a class,
+it enforces that the class must be inherited, and cannot be instantiated by itself.
+Hence the last thing i learned today in the inheritance section is about the virtual keyword which is a special access modifier which can be
+applied to type members of classes that are intended to be inherited. 
