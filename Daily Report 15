@@ -1,0 +1,5 @@
+Today i started a new section Visibility and Accessibility modes, the section explains the Public,Private and Protected access modifiers though. I've been using these modifiers in previous
+sections too but this whole section explains the importance and use of the access specifiers. Access modifiers are the most commonly used
+modifiers in most C# program code.
+These modifiers are used to control what levels of access you want to apply to your types, and type members such as methods and properties.
+Then I individually studied all the three specifiers.
