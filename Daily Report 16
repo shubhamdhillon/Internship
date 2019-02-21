@@ -1,0 +1,3 @@
+Today i learned about the Internal modifier which has the same access semantics as the public keyword with the exception of restricting access to code in your own program 
+assembly.This means that you can create code that can only be accessed from your own code.
+Along with this I practiced the given examples about the access modifiers and internal modifier.
