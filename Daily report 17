@@ -1,0 +1,4 @@
+I know its been several days and i'm really sorry for that so i'll continue the course from where i left it, so i learned about The 
+internal modifiers. It has the same access semantics as the public keyword with the exception of restricting access to code in our own program
+assembly. 
+This means that we can create code that can only be accessed from our own code. 
